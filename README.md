@@ -1,5 +1,5 @@
   Hi! 
-  My name is Eduardo, i'm 22 years old and i'm an Information Systems Student, currently at the 1st period at FIAP.
+  My name is Eduardo, i'm 23 years old and i'm an Information Systems Student, currently at the 2nd period at FIAP.
   
   - 🔭 I’m currently working on Stefanini Brasil as a Suport Analyst
   - 🌱 I’m currently learning HTML, CSS and JavaScript
